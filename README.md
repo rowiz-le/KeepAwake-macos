@@ -39,14 +39,6 @@ A tiny macOS menu bar app that keeps your Mac awake — even when the lid is clo
   </tr>
 </table>
 
-## Logo
-
-<p>
-  <img src="docs/images/logo-128.png" width="64" alt="128"/>&nbsp;
-  <img src="docs/images/logo-256.png" width="96" alt="256"/>&nbsp;
-  <img src="docs/images/logo-512.png" width="128" alt="512"/>&nbsp;
-  <img src="docs/images/logo-1024.png" width="160" alt="1024"/>
-</p>
 
 ---
 
