@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Build output (the binary; everyone builds from source)
+KeepAwake.app/Contents/MacOS/KeepAwake
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+.swiftpm/
+
+# Swift / Xcode
+build/
+DerivedData/
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# Logs
+*.log
