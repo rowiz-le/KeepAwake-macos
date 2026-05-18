@@ -1,10 +1,52 @@
-# KeepAwake
+<p align="center">
+  <img src="docs/images/logo-256.png" width="180" alt="KeepAwake logo" />
+</p>
 
-A tiny macOS menu bar app that keeps your Mac awake — even when the lid is closed.
+<h1 align="center">KeepAwake</h1>
 
-*(Tiếng Việt bên dưới)*
+<p align="center">
+A tiny macOS menu bar app that keeps your Mac awake — even when the lid is closed.<br>
+<em>(Tiếng Việt bên dưới)</em>
+</p>
 
-![Status: Menu bar app](https://img.shields.io/badge/macOS-13%2B-blue) ![Language: Swift](https://img.shields.io/badge/Swift-5-orange) ![Architecture: Apple Silicon + Intel](https://img.shields.io/badge/arch-universal-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-13%2B-blue" alt="macOS 13+"/>
+  <img src="https://img.shields.io/badge/Swift-5-orange" alt="Swift 5"/>
+  <img src="https://img.shields.io/badge/arch-universal-lightgrey" alt="Universal"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT"/>
+</p>
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <th>English — Off</th>
+    <th>English — On (Aggressive)</th>
+  </tr>
+  <tr>
+    <td><img src="docs/images/menu-en-off.png" width="320" alt="Menu English off"/></td>
+    <td><img src="docs/images/menu-en-on.png" width="320" alt="Menu English on"/></td>
+  </tr>
+  <tr>
+    <th>Tiếng Việt — Tắt</th>
+    <th>Tiếng Việt — Bật (Chế độ Mạnh)</th>
+  </tr>
+  <tr>
+    <td><img src="docs/images/menu-vi-off.png" width="320" alt="Menu Tiếng Việt tắt"/></td>
+    <td><img src="docs/images/menu-vi-on.png" width="320" alt="Menu Tiếng Việt bật"/></td>
+  </tr>
+</table>
+
+## Logo
+
+<p>
+  <img src="docs/images/logo-128.png" width="64" alt="128"/>&nbsp;
+  <img src="docs/images/logo-256.png" width="96" alt="256"/>&nbsp;
+  <img src="docs/images/logo-512.png" width="128" alt="512"/>&nbsp;
+  <img src="docs/images/logo-1024.png" width="160" alt="1024"/>
+</p>
 
 ---
 
