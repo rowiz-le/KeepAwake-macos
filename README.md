@@ -12,7 +12,7 @@ A tiny macOS menu bar app that keeps your Mac awake — even when the lid is clo
 
 ### What it does
 
-KeepAwake prevents macOS from going to sleep so you can leave the lid closed while a game downloads, a video plays, or a long task runs. It combines three layers of protection:
+KeepAwake prevents macOS from going to sleep so you can leave the lid closed while a game downloads, "listen" to a video plays, or a long task runs. It combines three layers of protection:
 
 1. **`caffeinate`** subprocess with `-dimsu` flags — prevents display, idle, disk, and system sleep, and asserts user activity.
 2. **IOKit power assertions** — 5 different assertion types covering both idle and active sleep prevention.
@@ -64,7 +64,7 @@ MIT — see [LICENSE](LICENSE).
 
 ### App này làm gì
 
-KeepAwake ngăn MacBook ngủ — kể cả khi bạn gập nắp — để bạn có thể yên tâm tải game, xem video hoặc chạy task dài. App dùng ba lớp bảo vệ:
+KeepAwake ngăn MacBook ngủ — kể cả khi bạn gập nắp — để bạn có thể yên tâm tải game, "nghe" nhạc youtube... hoặc chạy task dài. App dùng ba lớp bảo vệ:
 
 1. **Subprocess `caffeinate`** với flag `-dimsu` — ngăn màn hình, idle, đĩa, và system sleep.
 2. **IOKit power assertions** — 5 loại assertion khác nhau.
